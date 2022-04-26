@@ -1,7 +1,6 @@
 import Card from "../Card/Card";
 
 import { useEffect, useState } from "react";
-import "./MainPage.css";
 
 const MainPage = () => {
   const [data, setData] = useState(null);
